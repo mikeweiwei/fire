@@ -14,7 +14,7 @@
 #endif
 
 
-// CFireDetectionDlg 对话框
+// CFireDetectionDlg 对话框//
 int currentState = 0;
 int g_FrameNum = 0;
 //cv::CascadeClassifier fire_cascade;
